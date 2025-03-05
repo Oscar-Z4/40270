@@ -1,3 +1,6 @@
 [submodule "FEI"]
 	path = FEI
 	url = https://github.com/Oscar-Z4/FEI.git
+[submodule "ecommers"]
+	path = ecommers
+	url = https://github.com/Oscar-Z4/ecommers.git
